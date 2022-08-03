@@ -1,0 +1,12 @@
+.container {
+    width: 600px;
+    margin-top: 50px;
+}
+
+.card {
+    background-color: aliceblue;
+}
+
+.organizacao {
+    margin-left: -90px;
+}
